@@ -5,3 +5,6 @@ This project aims to securely manage, streamline, and perform analysis on the st
 The dataset has been taken from kaggle. This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day.
 
 Link of dataset: https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+## Architecture
+<img src=""architecture.jpeg">
