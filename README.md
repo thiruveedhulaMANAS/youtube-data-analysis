@@ -38,3 +38,8 @@ Link of dataset: https://www.kaggle.com/datasets/datasnaek/youtube-new
 **Step 6:** After correctly preparing your data, utilize Amazon Athena to execute SQL-based analysis on the dataset stored in your S3 bucket. Athena enables you to query your data without requiring complicated ETL operations.
 
 **Step 7:** Finally, use Amazon QuickSight to see and analyze your data. QuickSight will assist you in creating interactive data visualizations and dashboards from your analyzed dataset.
+
+## Output ##
+![output-1](https://github.com/thiruveedhulaMANAS/youtube-data-analysis/blob/main/outputs/Screenshot%20(1).png)
+![output-2](https://github.com/thiruveedhulaMANAS/youtube-data-analysis/blob/main/outputs/Screenshot%20(2).png)
+![output-3](https://github.com/thiruveedhulaMANAS/youtube-data-analysis/blob/main/outputs/Screenshot%20(3).png)
